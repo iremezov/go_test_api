@@ -1,0 +1,12 @@
+Custom Log2023/09/10 17:34:33 I am a new log message
+Custom Log2023/09/10 17:34:38 A new log, 5 seconds later
+Custom Log2023/09/10 17:36:25 Starting application
+2023/09/10 20:58:04 Starting application
+2023/09/10 20:58:15 CreateUser jopa
+2023/09/10 20:59:15 Starting application
+2023/09/10 20:59:19 CreateUser {"id":5,"login":"mosya","email":"mosya@gmail.com","state":0}
+2023/09/10 21:00:08 Starting application
+2023/09/10 21:00:40 CreateUser {"id":5,"login":"masha","email":"masha@gmail.com","state":0}
+2023/09/10 21:07:33 Starting application
+2023/09/10 21:07:59 CreateUser {"id":6,"login":"masha","email":"masha@gmail.com","state":0}
+2023/09/10 21:08:34 UpdateUser {"id":6,"login":"rita","email":"rita@gmail.com","state":0}
